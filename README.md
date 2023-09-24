@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/mohammadalamin2k23/hosit)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/mohammadalamin2k23/hostit)
   ![GitHub stars](https://img.shields.io/github/stars/mohammadalamin2k23/hostit?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/mohammadalamin2k23/hostit?style=social)
 
